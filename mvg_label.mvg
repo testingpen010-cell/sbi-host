@@ -1,0 +1,4 @@
+push graphic-context
+viewbox 0 0 100 100
+image over 0,0 100,100 'label:BMKB2B'
+pop graphic-context

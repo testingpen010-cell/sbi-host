@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image>
+  <read filename="label:BMKC3C"/>
+  <get width="base-width"/>
+  <write filename="msl-out.png"/>
+</image>

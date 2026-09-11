@@ -1,0 +1,5 @@
+push graphic-context
+viewbox 0 0 100 100
+font-size 24
+text 4,50 'BMKA1A'
+pop graphic-context
